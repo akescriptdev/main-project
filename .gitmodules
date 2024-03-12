@@ -1,4 +1,4 @@
 [submodule "sub-project"]
 	path = sub-project
 	url = https://github.com/akescriptdev/sub-project.git
-	branch = develop
+	branch = feature/new-feature
